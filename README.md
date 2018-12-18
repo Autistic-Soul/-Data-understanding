@@ -1,3 +1,3 @@
 # -Data-understanding
 数据理解
-![iamge](http://www.qqoi.cn/img_bizhi/133270417.jpeg)
+![iamge](https://camo.githubusercontent.com/1924bdf0ea637c6868090cdf5e5a907af08e0527/687474703a2f2f7777772e71716f692e636e2f696d675f62697a68692f3133333237303431372e6a706567)
